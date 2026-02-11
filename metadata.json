@@ -7,9 +7,10 @@
     "modelTypes": "",
     "modelState": "",
     "author": "",
+    "authortype": "",
     "language": "",  
-    "validatedModel": null,
-    "decompositions": null,  
+    "validatedModel": "",
+    "decompositions": "",  
     "additionalInformation": ""
   }]
 }

@@ -1,10 +1,15 @@
 {
-  "modelName": "",
-  "modelType": "",
-  "decomposition": null,
-  "modelState": "",
-  "validatedModel": null,
-  "authorSource": "",
-  "descriptionLanguage": "",
-  "additionalInformation": ""
+  "domainName": "",
+  "modelGroupname": [
+  {
+    "name": "",
+    "description": "",
+    "modelTypes": "",
+    "modelState": "",
+    "author": "",
+    "language": "",  
+    "validatedModel": null,
+    "decompositions": null,  
+    "additionalInformation": ""
+  }]
 }

@@ -1,0 +1,7 @@
+{
+  "model_name": "example_model",
+  "author": "Sebastian",
+  "version": "1.0",
+  "domain": "production",
+  "group": "assembly"
+}

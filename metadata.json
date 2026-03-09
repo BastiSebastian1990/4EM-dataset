@@ -3,6 +3,10 @@
     {
       "domainName": "Baeckerei",
       "modelGroupname": "Baeckerei"
+    },
+    {
+      "domainName": "Baeckerei",
+      "modelGroupname": "Produktion"
     }
   ]
 }

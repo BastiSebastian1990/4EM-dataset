@@ -1,3 +1,8 @@
 {
-  "models": []
+  "models": [
+    {
+      "domainName": "Baeckerei",
+      "modelGroupname": "Verkauf"
+    }
+  ]
 }

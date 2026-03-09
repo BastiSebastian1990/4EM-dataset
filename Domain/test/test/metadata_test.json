@@ -1,0 +1,19 @@
+{
+  "domainName": "test",
+  "modelGroupname": [
+    {
+      "name": "test",
+      "description": "test",
+      "modelTypes": "test",
+      "modelState": "test",
+      "author": "test",
+      "authortype": "test",
+      "language": "test",
+      "validatedModel": true,
+      "decompositions": true,
+      "decomposed_by": "string",
+      "decompositionPair": "string",
+      "additionalInformation": "test"
+    }
+  ]
+}

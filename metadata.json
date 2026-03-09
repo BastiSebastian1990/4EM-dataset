@@ -7,6 +7,10 @@
     {
       "domainName": "Baeckerei",
       "modelGroupname": "Produktion"
+    },
+    {
+      "domainName": "test_domain",
+      "modelGroupname": "test"
     }
   ]
 }

@@ -1,0 +1,19 @@
+{
+  "domainName": "Baeckerei",
+  "modelGroupname": [
+    {
+      "name": "C&C",
+      "description": "Modelle einer Fallstudie",
+      "modelTypes": "Gesamt",
+      "modelState": "complete",
+      "author": "Seba",
+      "authortype": "Student",
+      "language": "german",
+      "validatedModel": true,
+      "decompositions": true,
+      "decomposed_by": "ARM | BPM",
+      "decompositionPair": "string",
+      "additionalInformation": "-"
+    }
+  ]
+}

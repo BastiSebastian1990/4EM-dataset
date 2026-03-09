@@ -14,6 +14,20 @@
       "decomposed_by": "string",
       "decompositionPair": "string",
       "additionalInformation": "nothing"
+    },
+    {
+      "name": "C&C",
+      "description": "Baeckereikette",
+      "modelTypes": "Full, CM, ARM, RM",
+      "modelState": "finish",
+      "author": "Seba",
+      "authortype": "Student",
+      "language": "german",
+      "validatedModel": true,
+      "decompositions": false,
+      "decomposed_by": "string",
+      "decompositionPair": "string",
+      "additionalInformation": "nothing"
     }
   ]
 }

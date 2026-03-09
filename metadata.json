@@ -3,10 +3,6 @@
     {
       "domainName": "test",
       "modelGroupname": "test"
-    },
-    {
-      "domainName": "test2",
-      "modelGroupname": "test2"
     }
   ]
 }

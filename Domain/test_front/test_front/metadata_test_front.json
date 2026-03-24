@@ -1,0 +1,19 @@
+{
+  "domainName": "test_front",
+  "modelGroupname": [
+    {
+      "name": "Testmodell",
+      "description": "Testbeschreibung",
+      "modelTypes": "concept",
+      "modelState": "draft",
+      "author": "Sebastian",
+      "authortype": "user",
+      "language": "de",
+      "validatedModel": false,
+      "decompositions": false,
+      "decomposed_by": null,
+      "decompositionPair": null,
+      "additionalInformation": "none"
+    }
+  ]
+}

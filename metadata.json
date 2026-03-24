@@ -7,6 +7,10 @@
     {
       "domainName": "test",
       "modelGroupname": "123"
+    },
+    {
+      "domainName": "test_front",
+      "modelGroupname": "test_front"
     }
   ]
 }

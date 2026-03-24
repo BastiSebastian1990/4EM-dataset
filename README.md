@@ -14,7 +14,6 @@ The system allows users to:
 * Upload multiple types of model artifacts
 * Version models automatically
 * Store metadata about models
-* Upload process models and subprocess models
 * Browse the repository structure
 * Delete models and automatically update metadata
 
@@ -42,6 +41,7 @@ Main API modules:
 * `upload.py`
 * `delete.py`
 * `browse.py`
+* `update.py`
 
 ---
 
@@ -212,10 +212,8 @@ If directories are missing they are created automatically.
 The following files may be uploaded:
 
 * Gesamtmodell (`adl`)
-* Description file
+* Description file (`txt`)
 * Model artifacts
-* Process models
-* Subprocess models
 
 All files are stored in the correct repository structure.
 
@@ -245,13 +243,18 @@ Domain/<domain>/<group>/metadata_<group>.json
 
 Contains information such as:
 
+* Domain
+* model group
 * model name
 * description
 * model type
+* model state
 * author
+* author type
 * language
 * validation status
 * decomposition information
+* additional information
 
 ---
 
@@ -261,7 +264,7 @@ Contains information such as:
 metadata.json
 ```
 
-Contains an overview of all model groups in the repository.
+Contains an overview of all domains and model groups in the repository.
 
 ---
 
@@ -338,6 +341,26 @@ http://127.0.0.1:8000/docs
 ```
 
 ---
+
+# Running the Frontend
+
+Start the REACT server using:
+
+```
+...\model_repo_backend\model-repository-frontend> npm run dev
+
+```
+
+REACT is available at:
+
+```
+http://localhost:5173/
+http://localhost:5173/upload
+http://localhost:5173/browse
+```
+
+---
+
 
 # Future Improvements
 
